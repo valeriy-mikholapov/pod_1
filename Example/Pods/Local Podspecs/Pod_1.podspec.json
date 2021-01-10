@@ -1,0 +1,22 @@
+{
+  "name": "Pod_1",
+  "version": "0.1.0",
+  "summary": "A short description of Pod_1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Valeriy Mikholapov/Pod_1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Valeriy Mikholapov": "valeriy_mikholapov@epam.com"
+  },
+  "source": {
+    "git": "https://github.com/Valeriy Mikholapov/Pod_1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Pod_1/Classes/**/*"
+}
